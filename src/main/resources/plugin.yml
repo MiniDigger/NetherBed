@@ -1,0 +1,4 @@
+name: NetherBed
+version: ${project.version}
+main: me.minidigger.netherbed.NetherBed
+authors: [MiniDigger]
